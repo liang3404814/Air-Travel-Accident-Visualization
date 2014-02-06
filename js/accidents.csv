@@ -1,0 +1,424 @@
+Total Death,Crew Death,Passenger Death,Ground Death,Type,Incident[nb 8],Aircraft,Location,Phase,Date,Latitude,Longitude
+257,20,237,0,COM,Air New Zealand Flight 901,McDonnell Douglas DC-10-30,"Mt. Erebus, Antarctica",ENR,28-Nov-79,-77.57173157,167.0849609
+123,12,111,0,COM,South African Airways Flight 228,Boeing 707-344C,"Windhoek, Namibia",ICL,20-Apr-68,-22.57159042,17.0907402
+159,19,140,0,COM,South African Airways Flight 295,Boeing 747-244B,"Indian Ocean, area ofˇMauritius",ENR,28-Nov-87,-20.22040939,57.58937836
+123,6,117,0,COM,Faucett Flight 251,Boeing 737-222,"Arequipa, Peru",APR,29-Feb-96,-16.40069008,-71.53640747
+152,11,141,0,COM,Yemenia Flight 626,Airbus A310-324,"Mozambique channelˇoffMitsamiouli, Comoros",APR,30-Jun-09,-15.86423397,42.62225342
+130,4,126,0,COM,TAAG Angola Airlines (D2-TBN),Boeing 737-200,"Lubango, Angola",ICL,8-Nov-83,-14.90087032,13.51366043
+101,7,92,2,COM,LANSA Flight 502,Lockheed L-188 Electra,"Cusco, Peru",ICL,9-Aug-70,-13.51657963,-71.97837067
+199,6,181,12,COM,TAM Airlines Flight 3054,Airbus A320-233,"S?o Paulo, Brazil",LDG,17-Jul-07,-10.81045151,-52.97311783
+99,6,89,4,COM,TAM Airlines Flight 402,Fokker 100,"S?o Paulo, Brazil",ICL,31-Oct-96,-10.81045151,-52.97311783
+154,6,148,0,COM,Gol Transportes AÇreos Flight 1907 and,Boeing 737-8EHˇandˇEmbraer Legacy,"nearˇPeixoto Azevedo, Brazil",ENR,29-Sep-06,-10.2401695,-55.0002899
+141,4,137,0,COM,Trans Service Airlift (9Q-CRR),Lockheed L-188 Electra,"nearˇCaungula, Lunda Norte Province, Angola",UNK,18-Dec-95,-8.767849922,18.35540009
+107,11,96,0,COM,Pan Am Flight 812,Boeing 707-321B,"area ofˇNegara, Bali, Indonesia",APR,22-Apr-74,-8.367530823,115.1834259
+237,0,0,237,COM,African Air (RA-26222),Antonov An-32B,"Kinshasa, DR Congo",ICL,8-Jan-96,-4.312220097,15.2895298
+137,9,128,0,COM,VASP Flight 168,Boeing 727-212A,"Pacatuba, Brazil",APR,8-Jun-82,-3.901309967,-38.62060928
+119,8,111,0,COM,TAME Ecuador (HC-BIG),Boeing 737-200 Advanced,"Cuenca, Ecuador",APR,11-Jul-83,-2.893079996,-78.99411774
+104,7,97,0,COM,SilkAir Flight 185,Boeing 737-36N,"Musi River, Indonesia",ENR,19-Dec-97,-2.740600109,103.5117035
+102,6,96,0,COM,Adam Air Flight 574[nb 16],Boeing 737-4Q8,"Makassar Strait, Indonesia",ENR,1-Jan-07,-2,117.5
+234,12,222,0,COM,Garuda Indonesia Flight 152,Airbus A300B4-220,"nearˇMedan, Indonesia",APR,26-Sep-97,3.547015,98.7123566
+149,5,95,49,COM,Mandala Airlines Flight 091,Boeing 737-230,"Medan, Indonesia",ICL,5-Sep-05,3.585242033,98.67559814
+114,6,108,0,COM,Kenya Airways Flight 507,Boeing 737-8AL,"Douala, Cameroon",ENR,5-May-07,4.064770222,9.701299667
+111,10,101,0,COM,Caledonian Airways Flight 153,Douglas DC-7,"Douala, Cameroon",ICL,4-Mar-62,4.064770222,9.701299667
+108,7,101,0,COM,Sosoliso Airlines Flight 1145,McDonnell Douglas DC-9-32,"Port Harcourt, Nigeria",LDG,10-Dec-05,4.743579865,7.044250011
+176,9,167,0,COM,Surinam Airways Flight 764,Douglas DC-8-62,"Paramaribo, Surinam",APR,7-Jun-89,5.820310116,-55.16542053
+132,7,125,0,COM,SAM Colombia Flight 501,Boeing 727-146,"La Canada, nearˇMedell°n, Colombia",ENR,19-May-93,6.245790005,-75.57459259
+141,5,136,0,COM,UTAGE Flight 141,Boeing 727-223,"Cotonou, Benin",TOF,25-Dec-03,6.35693121,2.440089941
+163,6,147,10,COM,Dana Air Flight 992,McDonnell Douglas MD-83,"Lagos, Nigeria",APR,3-Jun-12,6.454710007,3.38876009
+144,10,134,0,COM,ADC Airlines Flight 086,Boeing 727-231,"Ejirin,ˇLagos, Nigeria",APR,7-Nov-96,6.614230156,3.900190115
+131,7,124,0,COM,Air Philippines Flight 541,Boeing 737-2H4,"Samal, Philippines",APR,19-Apr-00,7.077950001,125.7118607
+183,8,175,0,COM,Icelandic Airlines Flight LL 001,Douglas DC-8-63CF,"Katunayake, Sri Lanka",APR,15-Nov-78,7.159659863,79.87023163
+169,10,159,0,COM,Kenya Airways Flight 431,Airbus A310-304,"Gulf of Guinea, offˇCìte d'Ivoire",ENR,30-Jan-00,7.59875536,-5.552574635
+191,9,182,0,COM,Martinair Holland Flight 138,Douglas DC-8-55F,"nearˇMaskeliya, Sri Lanka",ENR,4-Dec-74,7.789133549,80.6807251
+143,7,136,0,COM,Avianca Flight 410,Boeing 727-21,"Sardinata, Colombia",ENR,17-Mar-88,8.070569992,-72.80268097
+104,5,99,0,COM,Cebu Pacific Air Flight 387,McDonnell Douglas DC-9-32,"Mt. Balatukan, Philippines",ENR,2-Feb-98,8.770000458,124.9800034
+101,11,90,0,COM,Thai Airways Flight 261,Airbus A310-300,"Surat Thani, Thailand",APR,11-Dec-98,9.133000374,99.31555939
+117,6,111,0,COM,Bellview Airlines Flight 210,Boeing 737-2L9,"nearˇLagos, Nigeria",ENR,22-Oct-05,9.559505463,8.077880859
+160,8,152,0,COM,West Caribbean Airways Flight 708,McDonnell Douglas MD-82,"Machiques, Venezuela",ENR,16-Aug-05,10.05965996,-72.55548859
+155,10,74,71,COM,Viasa Flight 742,McDonnell Douglas DC-9-32,"Maracaibo, Venezuela",ICL,16-Mar-69,10.625,-71.67630005
+176,6,170,0,COM,Nigeria Airways (JY-ADO),Boeing 707-3D3C,"Kano, Nigeria",LDG,22-Jan-73,11.98569965,8.490839958
+149,7,64,78,COM,EAS Airlines Flight 4226,BAC One-Eleven 500,"Kano, Nigeria",ENR,4-May-02,11.98569965,8.490839958
+158,6,152,0,COM,Air India Express Flight 812,Boeing 737-8HG,"Mangalore, India",LDG,22-May-10,12.92477036,74.85871887
+228,22,206,0,COM,Korean Air Flight 801,Boeing 747-3B5,"Asan, Guam, US",APR,6-Aug-97,13.47138882,144.7138824
+131,4,127,0,COM,Tan-Sahsa Flight 414,Boeing 727-224,"Tegucigalpa, Honduras",APR,21-Oct-89,14.08189964,-87.20539856
+223,10,213,0,COM,Lauda Air Flight 004,Boeing 767-3Z9ER,"Phu Toei National Park, Thailand",ENR,26-May-91,14.89745522,99.42241669
+111,4,0,107,COM,Flying Tiger Line (N228SW),Canadair CL-44D4-1,"Da Nang, Vietnam",APR,24-Dec-66,16.07136917,108.2207794
+113,10,103,0,COM,Air France Flight 117,Boeing 707-328,"nearˇDeshaies, Guadeloupe, West Indies",APR,22-Jun-62,16.30879974,-61.78889847
+107,11,96,0,COM,Flying Tiger Line Flight 739,Lockheed L-1049H Super Constellation,Pacific Ocean,ENR,16-Mar-62,18.34253502,148.1971893
+102,5,97,0,COM,Dominicana de Aviaci¢n (HI-177),McDonnell Douglas DC-9-32,"Caribbean Sea, offˇSanto Domingo, Dominican Republic",ICL,15-Feb-70,18.48530006,-69.90779877
+213,23,190,0,COM,Air India Flight 855,Boeing 747-237B,"Arabian Sea, offˇMumbai, India",ENR,1-Jan-78,18.93013,72.83009338
+167,8,159,0,COM,Mexicana Flight 940,Boeing 727-264,"Sierra Madre Oriental Mts., Mexico",ENR,31-Mar-86,19.6009541,-99.1552124
+116,11,105,0,COM,Sudan Airways Flight 139,Boeing 737-200C,"Port Sudan, Sudan",APR,8-Jul-03,19.61720085,37.21820831
+189,13,176,0,COM,Alas Nacionales Flight 301,Boeing 757-225,"Atlantic Ocean, nearˇPuerto Plata, Dominican Republic",ENR,6-Feb-96,19.77879906,-70.69979858
+261,14,247,0,COM,Nigeria Airways Flight 2120,Douglas DC-8-61,"Jeddah, Saudi Arabia",APR,11-Jul-91,21.48167992,39.18286133
+102,6,96,0,COM,Air AlgÇrie Flight 6289,Boeing 737-2T4,"Tamanrasset, Algeria",ICL,6-Mar-03,22.79100037,5.526209831
+131,6,125,0,COM,Indian Airlines Flight 113,Boeing 737-2A8,"Ahmedabad, India",APR,19-Oct-88,23.01930046,72.58174133
+171,11,115,45,COM,Cubana de Aviaci¢n Flight 9646,Ilyushin II-62M,"Havana, Cuba",ICL,3-Sep-89,23.1321106,-82.36749268
+225,19,206,0,COM,China Airlines Flight 611,Boeing 747-209B,"Taiwan Strait, nearˇPenghu Islands, China",ENR,25-May-02,23.558147,119.602498
+110,6,104,0,COM,Far Eastern Air Transport Flight 103,Boeing 737-222,"Miaoli, Taiwan, China",ENR,22-Aug-81,23.75108337,120.9713593
+156,11,145,0,COM,Pakistan International Airlines Flight 740,Boeing 707-340C,"nearˇTaif, Saudi Arabia",ENR,26-Nov-79,23.99472618,44.40135574
+100,7,93,0,COM,United Arab Airlines (SU-APC),Ilyushin Il-18D,"Aswan, Egypt",LDG,20-Mar-69,24.09000969,32.89857864
+301,14,287,0,COM,Saudia Flight 163,Lockheed L-1011-200 TriStar,"Riyadh, Saudi Arabia",ENR,19-Aug-80,24.64728928,46.71467972
+112,6,106,0,COM,Sterling Airways Flight 296,Sud Aviation Caravelle,"Fujairah, United Arab Emirates",ENR,14-Mar-72,25.12199974,56.33779907
+110,5,105,0,COM,ValuJet Flight 592,McDonnell Douglas DC-9-32,"Everglades, Florida, US",ENR,11-May-96,25.85693932,-81.38484955
+143,8,135,0,COM,Gulf Air Flight 072,Airbus A320-212,"Persian Gulf, offˇAl Muharraq, Bahrain",APR,23-Aug-00,26.2551403,50.60586166
+202,14,182,7,COM,China Airlines Flight 676,Airbus A300-622R,"Dayuan, Taiwan, China",APR,16-Feb-98,26.73329926,105.625
+141,10,131,0,COM,China Southern Airlines Flight 3943,Boeing 737-31B,"Hejiaqiao,ˇYanshan District, China",APR,24-Nov-92,27.40940094,113.3440018
+167,12,155,0,COM,Pakistan International Airlines Flight 268,Airbus A300B4-200,"Kathmandu, Nepal",APR,28-Sep-92,27.69330025,85.32250214
+148,13,135,0,COM,Flash Airlines Flight 604,Boeing 737-3Q8,"Red Sea, offˇSharm el-Sheikh, Egypt",ENR,3-Jan-04,27.86951065,34.30419159
+155,7,148,0,COM,Spantax Flight 275,Convair 990,"San Crist¢bal, Tenerife, Canary Islands, Spain",ICL,3-Dec-72,28.07844,-15.41547
+113,14,99,0,COM,Thai Airways International Flight 311,Airbus A310-304,"Langtang National Park, Nepal",ENR,31-Jul-92,28.16805077,85.54602051
+583,23,560,0,COM,Pan Am Flight 1736 and,Boeing 747-121ˇandˇBoeing 747-206B,"Tenerife, Spain",TXI and TOF,27-Mar-77,28.26861191,-16.60555649
+146,8,138,0,COM,Dan-Air Flight 1008,Boeing 727-46,"La Esperanza Forrest,ˇTenerife, Canary Islands, Spain",APR,25-Apr-80,28.53919983,-16.20299911
+349,33,316,0,COM,Saudi Arabian Flight 763 and,Boeing 747-168BˇandˇIlyushin Il-76TD,"Charkhi Dadri, India",ENR,12-Nov-96,28.59449959,76.29019928
+108,10,98,0,COM,China Southwest Airlines Flight 4146,Ilyushin Il-18D,"nearˇChongqing, China",APR,18-Jan-88,29.5509491,106.5193481
+153,7,138,8,COM,Pan Am Flight 759,Boeing 727-235,"Kenner, Louisiana, US",ICL,9-Jul-82,29.99020004,-90.24198914
+121,13,108,0,COM,Pakistan International Airlines Flight 705,Boeing 720-040B,"New Cairo, Egypt",APR,20-May-65,30.03000069,31.46999931
+188,7,181,0,COM,Alia Royal Jordanian (JY-AEE),Boeing 707-321C,"Tamri, Morocco",ENR,3-Aug-75,30.70056915,-9.826359749
+108,8,100,0,COM,China General Aviation Flight 7552,Yakovlev Yak-42D,"Nanjing, China",ICL,31-Jul-92,32.0497818,118.7659836
+128,8,120,0,COM,Iran Air Flight 291,Boeing 727-86,"Alborz Mts., Iran",APR,21-Jan-80,32.5007782,54.2942009
+119,12,107,0,COM,Iran Air Tours Flight 956,Tupolev Tu-154M,"nearˇSarab-e Dowreh, Iran",APR,12-Feb-02,32.5007782,54.2942009
+159,12,147,0,COM,Libyan Arab Airlines Flight 1103 and,Boeing 727-2L5ˇandˇMikoyan-Gurevich MiG-23,"Qasr bin Ghashir, Tripoli, Libya",APR,22-Dec-92,32.68330002,13.18330002
+131,6,125,0,COM,TAP Portugal Flight 425,Boeing 727-282Adv,"Santa Cruz, Portugal",LDG,19-Nov-77,32.68840027,-16.79000092
+144,9,128,7,COM,PSA Flight 182 and,Boeing 727-214ˇandˇCessna 172,"San Diego, California, US",APR,25-Sep-78,32.71569061,-117.1617203
+135,8,126,1,COM,Delta Air Lines Flight 191,Lockheed L-1011 TriStar,"Dallas-Fort Worth, Texas, US",APR,2-Aug-85,32.86582184,-97.03990936
+103,11,92,0,COM,Afriqiyah Airways Flight 771,Airbus A330-202,"Tripoli, Libya",APR,12-May-10,32.87223816,13.19237041
+126,11,115,0,COM,?SA Flight 542,Ilyushin Il-62,"Damascus, Syria",APR,20-Aug-75,33.5165596,36.31708145
+159,8,151,0,COM,American Airlines Flight 965,Boeing 757-223,"nearˇBuga, Colombia",APR,20-Dec-95,33.54419,-82.26405
+152,6,146,0,COM,Airblue Flight 202,Airbus A321-231,"Islamabad, Pakistan",APR,28-Jul-10,33.70767975,73.07047272
+127,6,121,0,COM,Bhoja Air Flight 213,Boeing 737-236,"Islamabad, Pakistan",APR,20-Apr-12,33.70767975,73.07047272
+160,14,146,0,COM,China Northwest Airlines Flight 2303,Tupolev Tu-154M,"Xian, China",ENR,6-Jun-94,34.26324844,108.9318314
+104,8,96,0,COM,Kam Air Flight 904,Boeing 737-242,"Chaperi Ghar Mtn.,ˇPamir Mts., Afghanistan",ENR,3-Feb-05,34.546041,69.165809
+126,9,117,0,COM,Globe Air (HB-ITB),Bristol Britannia 313,"Nicosia, Cyprus",APR,20-Apr-67,35.17298126,33.40114975
+129,8,121,0,COM,Air China Flight 129,Boeing 767-2J6ER,"Busan, South Korea",APR,15-Apr-02,35.17792892,129.078476
+264,15,249,0,COM,China Airlines Flight 140,Airbus A300B4-622R,"Komaki, Japan",APR,26-Apr-94,35.29234314,136.9168854
+124,11,113,0,COM,BOAC Flight 911,Boeing 707-436,"Gotemba, Japan",ENR,5-Mar-66,35.29999924,138.9329987
+133,7,126,0,COM,All Nippon Airways Flight 60,Boeing 727-81,"Tokyo Bay, Japan",APR,4-Feb-66,35.41666794,139.7833405
+106,7,99,0,COM,Royal Air Maroc Caravelle (OO-SRD),Sud Aviation SE-210 Caravelle VIN,"Mt. Mellalyene,ˇTetouan, Morocco",ENR,22-Dec-73,35.54560852,-5.446615219
+520,15,505,0,COM,Japan Airlines Flight 123,Boeing 747SR-46,"Ueno, Japan",ENR,12-Aug-85,35.71369934,139.7769928
+168,12,156,0,COM,Caspian Airlines Flight 7908,Tupolev Tu-154M,"Qazvin, Iran",ENR,15-Jul-09,36.27970123,50.00490189
+128,11,117,0,COM,United Airlines Flight 718 and,Douglas DC-7ˇandˇLockheed L-1049,"Grand Canyon, Arizona, US",ENR,30-Jun-56,36.29851532,-112.7921143
+112,8,104,0,COM,Civil Aviation Administration of China Flight 3303,Hawker Siddeley Trident,"nearˇYangshuo, China",APR,26-Apr-82,36.55308533,103.9754333
+144,7,137,0,COM,Independent Air Flight 1851,Boeing 707-331B,"Pico Alto Mtn., Azores, Portugal",APR,8-Feb-89,37.351111,-121.858889
+154,8,146,0,COM,Turkish Airlines Flight 452,Boeing 727-2F2,"Isparta, Turkey",APR,19-Sep-76,37.74980164,30.56940079
+115,7,108,0,COM,Alitalia Flight 112,McDonnell Douglas DC-8-43,"Cinisi, Sicily, Italy",APR,5-May-72,38.16210175,13.10289955
+121,6,115,0,COM,Helios Airways Flight 522,Boeing 737-31S,"Grammatiko, Greece",ENR,14-Aug-05,38.20140076,23.9673996
+112,9,103,0,COM,China Northern Airlines Flight 6136,McDonnell Douglas MD-82,"Dalian Bay, China",APR,7-May-02,38.97012711,121.7056198
+104,6,98,0,COM,Iberia Airlines Flight 602,Sud Aviation SE 210 Caravelle,"Ibiza, Spain",APR,7-Jan-72,38.97260284,1.416544914
+162,7,155,0,COM,All Nippon Airways Flight 58 and,Boeing 727-281ˇandˇF-86 Sabre,"Shizukuishi, Japan",ENR,30-Jul-71,39.68716049,141.0051422
+104,6,11,87,COM,Middle East Airlines Flight 265 and,Vickers Viscount 754DˇandDouglas C-47,"Ankara, Turkey",APR and ENR,1-Feb-63,39.94290924,32.86048889
+181,19,162,0,COM,Avianca Flight 011,Boeing 747-283B,"Madrid, Spain",APR,27-Nov-83,40.45140076,-3.563149929
+154,6,148,0,COM,Spanair Flight 5022,McDonnell Douglas MD-82,"Madrid, Spain",TOF,20-Aug-08,40.45140076,-3.563149929
+265,9,251,5,COM,American Airlines Flight 587,Airbus A300B4-605R,"Belle Harbor, New York, US",ENR,12-Nov-01,40.57870865,-73.85101318
+132,5,127,0,COM,US Air Flight 427,Boeing 737-3B7,"Aliquippa, Pennsylvania, US",APR,8-Sep-94,40.61774063,-80.24594879
+113,6,107,0,COM,Eastern Air Lines Flight 66,Boeing 727-225,"Jamaica, New York, US",APR,24-Jun-75,40.6996994,-73.80809784
+134,12,116,6,COM,United Airlines Flight 826 and,Douglas DC-8-21ˇandLockheed L-1049,"New York City, New York, US",APR,16-Dec-60,40.7820015,-73.83270264
+230,18,212,0,COM,TWA Flight 800,Boeing 747-131,"Atlantic Ocean, offˇEast Moriches, New York, US",ENR,17-Jul-96,40.80794144,-72.82711792
+116,8,108,0,COM,Avioimpex Flight 110,Yakovlev Yak-42D,"Ohrid, Republic of Macedonia",APR,20-Nov-93,41.11750031,20.80211067
+112,7,105,0,COM,Dan-Air (G-APDN),de Havilland Comet 4,"Les Agudes Mtn., Spain",ENR,3-Jul-70,41.461143,2.17661
+200,9,191,0,COM,Aeroflot Flight 7425,Tupolev Tu-154B-2,"nearˇUchkuduk, Uzbekistan",ENR,10-Jul-85,41.77239227,63.14588928
+180,7,173,0,COM,Inex-Adria Aviopromet Flight 1308,McDonnell Douglas MD-81,"Mt. San Pietro,ˇPetreto-Bicchisano, Corsica, France",ENR,1-Dec-81,41.7825,8.97932
+273,13,258,2,COM,American Airlines Flight 191,McDonnell Douglas DC-10-10,"Des Plaines, Illinois, US",TOF,25-May-79,42.04199982,-87.88845062
+217,15,202,0,COM,EgyptAir Flight 990,Boeing 767-366ER,"Atlantic Ocean, area ofˇNantucket, Massachusetts, US",ENR,31-Oct-99,42.12551498,-71.49861908
+156,6,148,2,COM,Northwest Airlines Flight 255,McDonnell Douglas DC-9-82,"Romulus, Michigan, US",TOF,16-Aug-87,42.222229,-83.38535309
+111,1,110,0,COM,United Airlines Flight 232,McDonnell Douglas DC-10-10,"Sioux City, Iowa, US",LDG,19-Jul-89,42.49980927,-96.42093658
+108,5,103,0,COM,Alitalia Flight 4128,McDonnell Douglas DC-9-32,"Tyrrhenian Sea, offˇPalermo, Italy",APR,23-Dec-78,42.76697922,12.49382305
+148,7,141,0,COM,Iberia Airlines Flight 610,Boeing 727-256,"Mt. Oiz, Spain",ENR,19-Feb-85,43.22866821,-2.590035915
+166,10,156,0,COM,Aeroflot Flight 4227,Tupolev Tu-154B-2,"Almaty, Kazakhstan",ENR,8-Jul-80,43.25051117,76.88812256
+113,8,105,0,COM,Armavia Flight 967,Airbus A320-221,"Black Sea, offˇAdler, Russia",APR,3-May-06,43.43611145,39.93191147
+109,8,101,0,COM,Aeroflot Flight 1036,Ilyushin Il-18V,"Black Sea, offˇAdler, Russia",ICL,1-Oct-72,43.43611145,39.93191147
+109,9,100,0,COM,Air Canada Flight 621,McDonnell Douglas DC-8-63,"Vaughan, ON., Canada",LDG,5-Jul-70,43.85652924,-79.50760651
+118,8,106,4,COM,SAS Flight 686 and,McDonnell Douglas MD-87andˇCessna Citation CJ2,"Milan, Italy",TOF and TXI,8-Oct-01,45.45199966,9.193460464
+117,11,106,0,COM,Air India Flight 101,Boeing 707-437,"Mont Blanc massif, France",ENR,24-Jan-66,45.83361053,6.864999771
+177,14,162,1,COM,British Airways Flight 476 and,Hawker Siddeley Trident 3Band,"Vrbovec, Croatia",ENR,10-Sep-76,45.88679886,16.41399956
+118,7,111,0,COM,Trans-Canada Air Lines Flight 831,Douglas DC-8-54CF,"Sainte-ThÇräse, QC., Canada",ENR,29-Nov-63,46.9015388,-71.2025681
+108,4,104,0,COM,Invicta International Airlines Flight 435,Vickers 952 Vanguard,"Reinach, Switzerland",APR,10-Apr-73,47.2492981,8.192110062
+123,7,116,0,COM,Varig Flight 820,Boeing 707-320C,"Saulx-les-Chartreux, France",APR,11-Jul-73,48.69660187,2.266750097
+178,13,165,0,COM,Aeroflot/Moldovia (CCCP-65816),Tupolev Tu-134Aˇ(both),"area ofˇSaykyn, Kazakhstan",ENR,11-Aug-79,48.817089,48.817089
+130,8,122,0,COM,Air France Flight 007,Boeing 707-328,"Paris, France",TOF,3-Jun-62,48.85692978,2.341200113
+170,10,160,0,COM,Pulkovo Flight 612,Tupolev Tu-154M,"Novoselivka, Donetsk Obl., Ukraine",ENR,22-Aug-06,48.92656326,31.47578239
+122,7,115,0,COM,Aeroflot Flight 1491,Antonov An-10,"nearˇKharkiv, Ukraine",APR,18-May-72,48.92656326,31.47578239
+256,8,248,0,COM,Arrow Air Flight 1285,Douglas DC-8-63CF,"Gander, NL., Canada",ICL,12-Dec-85,48.95800018,-54.60649872
+113,9,100,4,COM,Air France Flight 4590,AÇrospatiale-BAC Concorde,"Gonesse, France",ICL,25-Jul-00,48.99919891,2.422590017
+346,11,335,0,COM,Turkish Airlines Flight 981,McDonnell Douglas DC-10-10,"Fontaine-Chaalis, France",ENR,3-Mar-74,49.16930008,2.68550992
+118,9,109,0,COM,British European Airways Flight 548,Hawker Siddeley Trident 1C,"Staines, England, UK",ICL,18-Jun-72,51.43690109,-0.499630004
+111,11,100,0,COM,Aeroflot/Armenia Flight 909,Ilyushin Il-18E,"Verkhnyaya Khava,Verkhnekhavsky, Russia",ENR,6-Mar-76,51.83980179,39.94049072
+132,8,124,0,COM,Aeroflot Flight 8641,Yakovlev Yak-42,"Mazyr, Belarus",ENR,28-Jun-82,52.04602051,29.26774788
+183,11,172,0,COM,LOT Flight 5055,Ilyushin Il-62M,"Warsaw, Poland",ENR[nb 11],9-May-87,52.22874832,21.00625038
+156,8,148,0,COM,Interflug (DM-SEA),Ilyushin Il-62,"Kînigs Wusterhausen, Germany",ENR,14-Aug-72,52.2879982,13.62590027
+125,5,120,0,COM,Sibir (S7) Airlines Flight 778,Airbus A310-300,"Irkutsk, Russia",LDG,9-Jul-06,52.3082695,104.2391891
+124,9,115,1,COM,Baikal Air Flight 130,Tupolev Tu-154,"Irkutsk, Russia",ENR,3-Jan-94,52.3082695,104.2391891
+120,?,?,0,COM,Aeroflot Flight 831,Ilyushin Il-14MˇandˇAntonov An-12BP,"Poroslitsy,ˇYukhnovsky, Russia",ENR,23-Jun-69,54.5807991,35.5942688
+178,5,169,4,COM,Aeroflot Flight 3352,Tupolev Tu-154,"Omsk, Russia",LDG,11-Oct-84,54.99414063,73.36470795
+101,9,92,0,COM,Aeroflot (CCCP-74298),Ilyushin Il-18V,"near Spassky,ˇVerkhneuralsky, Russia",ENR,31-Aug-72,55,49.5
+101,6,95,0,COM,Northwest Orient Airlines Flight 293,Douglas DC-7CF,"Pacific Ocean, area ofˇAnnette Island, Alaska, US",ENR,3-Jun-63,55.13947296,-131.4958801
+122,8,114,0,COM,Aeroflot Flight 964,Tupolev Tu-104B,"Domodedovo, Russia",APR,13-Oct-73,55.43939972,37.76626968
+174,10,164,0,COM,Aeroflot Flight 217,Ilyushin Il-62,"Moscow, Russia",APR,13-Oct-72,55.75696945,37.61502075
+107,8,99,0,COM,Aeroflot Flight 2230,Ilyushin Il-18V,"Aramil, Russia",ICL,16-Nov-67,56.69504166,60.8339386
+108,8,100,0,COM,Aeroflot Flight 3932,Tupolev Tu-104,"Yekaterinburg, Russia",ICL,30-Sep-73,56.83768845,60.59780884
+145,9,136,0,COM,Vladivostok Air Flight 352,Tupolev Tu-154M,"near Budaro,ˇIrkutsk, Russia",APR,4-Jul-01,57.0981369,106.3675079
+109,7,102,0,COM,Aeroflot (CCCP-75559),Ilyushin Il-18V,"Shushary, Russia",APR,27-Apr-74,59.80968094,30.37895012
+111,7,104,0,COM,Alaska Airlines Flight 1866,Boeing 727-100,"nearˇJuneau, Alaska, US",APR,4-Sep-71,63.12362289,-154.3052063
+110,7,103,0,COM,Aeroflot (CCCP-85338),Tupolev 154B-2,"Yemelyanovo,ˇYemelyanovsky, Russia",ENR,23-Dec-84,63.12518692,103.7539825
+141,11,130,0,COM,Vnukovo Airlines Flight 2801,Tupolev Tu-154M,"Svalbard, Norway",APR,29-Aug-96,78.12931061,20.0970459
+228,12,216,0,COM,Air France Flight 447,Airbus A330-203,"Atlantic Ocean, area ofˇSao Pedro and Sao Paulo Islands",ENR,1-Jun-09,0.918154,-29.34277
+229,14,215,0,COM,Swissair Flight 111,McDonnell Douglas MD-11,"Atlantic Ocean, offˇPeggys Cove, N.S., Canada",ENR,2-Sep-98,44.495209,-63.914661
+99,4,95,0,COM,Aeroflot (CCCP-85480),Tupolev Tu-154B-2,"nearˇNorilsk, Russia",APR,16-Nov-81,,
+101,7,94,0,COM,Eastern Air Lines Flight 401,Lockheed L-1011-385-1 TriStar 1,"Everglades, nearˇTamiami, Florida, US",APR,29-Dec-72,,
+99,8,91,0,COM,KLM Flight 607E,Lockheed L-1049,"Atlantic Ocean, area ofˇShannon, Ireland",ENR,14-Aug-58,,
+98,8,90,0,COM,Khabarovsk United Air Flight 3949,Tupolev Tu-154B,"area of Grossevichi,ˇKhabarovsk Krai, Russia",ENR,12-Dec-95,,
+98,6,92,0,COM,Britannia Airways Flight 105,Bristol 175 Britannia 102,"Komenda, Slovenia",APR,1-Sep-66,,
+97,10,87,0,COM,Pan Am Flight 806,Boeing 707-321B,"Pago Pago, American Samoa",APR,30-Jan-74,,
+97,4,93,0,COM,Aeroflot (CCCP-42405),Tupolev Tu-104B,"Irkutsk, Russia",APR,25-Jul-71,,
+97,17,80,0,COM,Varig Flight 810,Boeing 707-441,"La Cruz peak,ˇSan Juan de Miraflores, Peru",APR,27-Nov-62,,
+96,4,92,0,COM,ADC Airlines Flight 53,Boeing 737-2B7,"Abuja, Nigeria",ICL,29-Oct-06,,
+96,6,90,0,COM,Aeroflot (CCCP-42369),Tupolev Tu-104A,"Almaty, Kazakhstan",APR,13-Jan-77,,
+95,6,89,0,COM,Indian Airlines Flight 171,Sud Aviation SE-210 Caravelle VIN,"Mumbai, India",APR,12-Oct-76,,
+95,8,87,0,COM,American Airlines Flight 1,Boeing 707-123B,"Jamaica Bay, New York, US",ICL,1-Mar-62,,
+94,7,87,0,COM,TAME Flight 120,Boeing 727-134,"Cumbal Vol., Colombia",APR,28-Jan-02,,
+94,12,82,0,COM,Aeroflot Flight 8381 and,Tupolev Tu-134ˇandˇAntonov An-26,"Zolochiv, Ukraine",APR and ENR,3-May-85,,
+94,9,85,0,COM,Alitalia Flight 771,McDonnell Douglas DC-8-43,"Junnar, India",ENR,7-Jul-62,,
+93,6,87,0,COM,Iberia Flight 350 and,Boeing 727ˇandˇMcDonnell Douglas DC-9,"Madrid, Spain",TOF and TXI,7-Dec-83,,
+92,4,88,0,COM,Indian Airlines Flight 605,Airbus A320-231,"Bangalore, India",APR,14-Feb-90,,
+92,7,85,0,COM,TWA Flight 514,Boeing 727-231,"Mt. Weather, Virginia, US",APR,1-Dec-74,,
+92,7,85,0,COM,Aeroflot (CCCP-75798),Ilyushin Il-18V,"Bulungur, Uzbekistan",ENR,6-Feb-70,,
+91,3,0,88,COM,Lloyd AÇreo Boliviano (N730JP),Boeing 707-131F,"Santa Cruz, Bolivia",ICL,13-Oct-76,,
+91,6,85,0,COM,LANSA Flight 508,Lockheed L-188 Electra,"Puerto Inca, Peru",ENR,24-Dec-71,,
+90,8,82,0,COM,Ethiopian Airlines Flight 409,Boeing 737-8AS,"Mediterranean Sea, offˇNa'ameh, Lebanon",ICL,25-Jan-10,,
+90,5,85,0,COM,One-Two-GO Airlines Flight 269,McDonnell Douglas MD-82,"Phuket, Thailand",LDG,16-Sep-07,,
+90,7,83,0,COM,Aeroflot (CCCP-65129),Tupolev Tu-134A,"nearˇAlmaty, Kazakhstan",APR,30-Aug-83,,
+90,8,82,0,COM,Aeroflot Flight 411,Ilyushin Il-62M,"Mendeleyevo, Russia",ICL,6-Jul-82,,
+90,5,85,0,COM,Olympic Airways Flight 954,Douglas DC-6,"Keratea, Greece",APR,8-Dec-69,,
+88,6,82,0,COM,Aeroflot-Nord Flight 821,Boeing 737-505,"Perm, Russia",APR,14-Sep-08,,
+88,5,83,0,COM,Alaska Airlines Flight 261,McDonnell Douglas MD-83,"Pacific Ocean, offˇAnacapa Island, California, US",ENR,31-Jan-00,,
+88,6,82,0,COM,Delta Air Lines Flight 723,McDonnell Douglas DC-9-31,"Boston, Massachusetts, US",APR,31-Jul-73,,
+88,5,83,0,COM,Air Ferry C-54 (G-APYK),Douglas C-54A-1-DC Skymaster,"Mont Canigou, France",ENR,3-Jun-67,,
+87,5,82,0,COM,Air Inter Flight 148,Airbus A320-111,"Barr, France",APR,20-Jan-92,,
+93,6,87,0,COM,Aerovias Guatemala Caravelle (HC-BAE),Sud Aviation SE-210 Caravelle III,"Flores, Guatemala",APR,18-Jan-86,,
+87,10,77,0,COM,LOT Polish Airlines Flight 007,Ilyushin Il-62,"Warsaw, Poland",APR,14-Mar-80,,
+87,11,76,0,COM,Nigeria Airways Flight 825,Vickers VC-10,"Lagos, Nigeria",APR,20-Nov-69,,
+87,7,80,0,COM,LAN Chile Flight 107,Douglas DC-6,"San JosÇ Vol., Chile",ENR,6-Feb-65,,
+87,9,78,0,COM,Aeroflot Flight 721,Ilyushin Il-18V,"nearˇYuzhno-Sakhalinsk, Russia",APR,2-Sep-64,,
+86,6,79,1,COM,Aviaco Flight 118,Sud Aviation SE 210 Caravelle 10R,"A Coru§a, Spain",APR,13-Aug-73,,
+86,7,79,0,COM,Aeroflot Flight 03,Tupolev Tu-104A,"nearˇYelabuga, Tatarstan, Russia",ENR,3-Sep-62,,
+85,6,79,0,COM,Tajikistan Airlines Flight 3183,Tupolev Tu-154B-1,"Sharjah, United Arab Emirates",APR,15-Dec-97,,
+85,10,72,3,COM,Japan Airlines Flight 471,Douglas DC-8-53,"nearˇNew Delhi, India",APR,14-Jun-72,,
+85,5,80,0,COM,Braniff Flight 352,Lockheed L-188A Electra,"Dawson, Texas, US",ENR,3-May-68,,
+85,4,81,0,COM,Paradise Airlines Flight 901A,Lockheed L-049 Constellation,"Genoa, Nevada, US",ENR,1-Mar-64,,
+84,7,77,0,COM,Aeroflot (CCCP-65058),Tupolev Tu-134A,"Andreevo,ˇIvanovo, Russia",APR,27-Aug-92,,
+84,5,79,0,COM,Eastern Air Lines Flight 663,Douglas DC-7B,"Atlantic Ocean, offˇJones Beach, New York, US",ENR,8-Feb-65,,
+83,4,79,0,COM,Singapore Airlines Flight 006,Boeing 747-412,"Dayuan, Taiwan, China",TOF,31-Oct-00,,
+83,4,79,0,COM,Palair Macedonian Airlines Flight 301,Fokker 100,"Petrovec, Republic of Macedonia",ICL,5-Mar-93,,
+83,9,74,0,COM,Thai Airways Flight 365,Boeing 737-2P5,"Phuket, Thailand",APR,31-Aug-87,,
+83,5,78,0,COM,Allegheny Airlines Flight 853 and,McDonnell Douglas DC-9-30andˇPiper PA-28 Cherokee,"Fairland, Indiana, US",ENR,9-Sep-69,,
+83,9,74,0,COM,Aeroflot Flight 15,Ilyushin Il-18D,"Parchum,ˇChunsky, Russia",ENR,29-Feb-68,,
+83,5,78,0,COM,American Flyers Flight 280,Lockheed L-188 Electra,"Ardmore, Oklahoma, US",APR,22-Apr-66,,
+83,8,75,0,COM,British Eagle International Airlines Flight 802,Bristol 175 Britannia 312,"Glungezer Mtn., Austria",ENR,29-Feb-64,,
+83,6,77,0,COM,President Airlines (N90773),Douglas DC-6B,"Shannon, Ireland",ICL,10-Sep-61,,
+82,5,77,0,COM,Tajikistan Airlines (87995),Yakovlev Yak-40,"Khorog, Tajikistan",TOF,28-Aug-93,,
+82,7,60,15,COM,AeromÇxico Flight 498ˇandˇPrivate aircraft (N4891F),McDonnell Douglas DC-9-32andˇPiper PA-28-181 Archer,"Cerritos, California, US",APR,31-Aug-86,,
+82,6,76,0,COM,Piedmont Airlines Flight 22 and,Boeing 727-22ˇandˇCessna 310,"Hendersonville, North Carolina, US",ENR,19-Jul-67,,
+82,8,74,0,COM,TABSO Flight 101,Ilyushin Il-18B,"Bratislava, Slovakia",ENR,24-Nov-66,,
+81,8,73,0,COM,Pan Am Flight 214,Boeing 707-121,"Elkton, Maryland, US",APR,8-Dec-63,,
+81,7,74,0,COM,Aeroflot Flight 415,Antonov An-10A,"Kholodnaia Rechka,ˇGagra, Abkhazia",APR,28-Jul-62,,
+80,14,56,10,COM,Cubana de Aviaci¢n Flight 389,Tupolev Tu-154M,"Quito, Ecuador",TOF,29-Aug-98,,
+80,4,76,0,COM,Air Mauritanie Flight 625,Fokker F-28 Fellowship 4000,"Tidjikja, Mauritania",LDG,1-Jul-94,,
+80,4,76,0,COM,Fuerza AÇrea Colombiana (FAC-902),Douglas DC-6B,"nearˇLeticia, Colombia",ENR,24-Jul-85,,
+80,7,73,0,COM,Union de Transportes AÇriens (F-BHMS),Douglas DC-6B,"Mt. Alcazaba, Spain",ENR,2-Oct-64,,
+80,6,74,0,COM,Swissair Flight 306,Sud Aviation SE-210 Caravelle III,"DÅrrenÑsch, Switzerland",ENR,4-Sep-63,,
+80,7,73,0,COM,World Airways Flight 830,Douglas DC-6A,"Mt. Barrigada, nearˇBarrigada, Guam, US",ENR,19-Sep-60,,
+80,9,71,0,COM,Aeroflot (CCCP-42362),Tupolev Tu-104A,"Vurnarsky, Chuvashia, Russia",ENR,17-Oct-58,,
+80,5,75,0,COM,Fairflight (G-AKBY),Avro 689 Tudor V,"Sigingstone, Wales, UK",APR,12-Mar-50,,
+79,3,72,4,COM,Korean Air Flight 803,McDonnell Douglas DC-10-30,"Tripoli, Libya",APR,27-Jul-89,,
+79,7,72,0,COM,Aeroflot (CCCP-75712),Ilyushin Il-18V,"nearˇKhujand, Tajikistan",ENR,24-Feb-73,,
+79,7,72,0,COM,Mexicana Flight 704,Boeing 727-64,"El Carmen, Mexico",ENR,4-Jun-69,,
+79,6,73,0,COM,Maritime Central Airways (CF-MCF),Douglas DC-4,"Issoudun, QC., Canada",ENR,11-Aug-57,,
+78,4,70,4,COM,Air Florida Flight 90,Boeing 737-222,"Washington, D.C., US",ICL,13-Jan-82,,
+78,10,68,0,COM,Pan Am Flight 816,Boeing 707-321B,"Pacific Ocean, offˇPapeete, Tahiti, French Polynesia",ENR,22-Jul-73,,
+78,3,75,0,COM,Wenela Air Services (A2-ZER),Douglas DC-4,"Francistown, Botswana",APR,4-Apr-74,,
+78,3,75,0,COM,Aviogenex Flight 130,Tupolev Tu-134A,"Omi?alj, Croatia",LDG,23-May-71,,
+78,5,73,0,COM,TWA Flight 529,Lockheed L-049 Constellation,"Hinsdale, Illinois, US",ENR,1-Sep-61,,
+77,5,72,0,COM,Hewa Bora Airways Flight 952,Boeing 727-022,"Kisangani, DR Congo",LDG,8-Jul-11,,
+77,10,67,0,COM,Iran Air Flight 277,Boeing 727-286Adv,"Urmia, Iran",APR,9-Jan-11,,
+77,7,70,0,COM,Aeroflot (CCCP-75520),Ilyushin Il-18V,"nearˇMineralnye Vody, Russia",APR,15-Feb-77,,
+77,6,71,0,COM,Air France Flight 2005,Sud Aviation SE-210 Caravelle III,"Rabat, Morocco",APR,12-Sep-61,,
+76,6,70,0,COM,?SA Flight 001,Ilyushin Il-18B,"Bratislava, Slovakia",APR,28-Jul-76,,
+76,2,74,0,COM,Imperial Airlines Flight 201/8,Lockheed L-049 Constellation,"Richmond, Virginia, US",APR,8-Nov-61,,
+75,13,62,0,COM,UM Flight 4230,Yakovlev Yak-42,"Maáka, Trabzon, Turkey",APR,26-May-03,,
+75,5,70,0,COM,Turkish Airlines Flight 634,Avro RJ100,"Diyarbak?r, Turkey",APR,8-Jan-03,,
+75,6,69,0,COM,Peruvian Air Force (FAP-351),Boeing 737-282,"Andoas, Peru",ENR,5-May-98,,
+75,12,63,0,COM,Aeroflot Flight 593,Airbus A310-304,"nearˇMezhdurechensk, Russia",ENR,23-Mar-94,,
+75,3,73,0,COM,Vietnam Airlines Flight 831,Tupolev Tu-134,"Lam Luk Ka, Thailand",APR,9-Sep-88,,
+75,4,71,0,COM,Inex-Adria Aviopromet Flight 450,McDonnell Douglas DC-9-32,"Prague, Czech Republic",APR,30-Oct-75,,
+75,6,69,0,COM,Avensa Flight 358,McDonnell Douglas DC-9-14,"nearˇMatur°n, Venezuela",ENR,22-Dec-74,,
+75,4,71,0,COM,Southern Airways Flight 932,McDonnell Douglas DC-9-31,"Ceredo, West Virginia, US",APR,14-Nov-70,,
+74,5,69,0,COM,Austral L°neas AÇreas Flight 2553,McDonnell Douglas DC-9-32,"nearˇNuevo Berlin, Uruguay",ENR,10-Oct-97,,
+74,5,69,0,COM,Lloyd AÇreo Boliviano (CP-698),Douglas DC-6B,"Mt. Choquetanga,ˇCordillera Kimsa Cruz, Bolivia",ENR,26-Sep-69,,
+74,10,64,0,COM,Linea Aeropostal Venezolana Flight 253,Lockheed L-1049 Super Constellation,"New York Bight, Atlantic Ocean, area ofˇJones Beach, New York, US",ENR,20-Jun-56,,
+73,8,65,0,COM,Avianca Flight 52,Boeing 707-321B,"Cove Neck, New York, US",APR,25-Jan-90,,
+73,7,66,0,COM,Balkan Bulgarian (LZ-TUB),Tupolev Tu-134,"Gabare,ˇVratsa, Bulgaria",ENR,16-Mar-78,,
+73,11,61,1,COM,Sabena Flight 548,Boeing 707-320,"Brussels, Belgium",APR,15-Feb-61,,
+72,9,63,0,COM,Aeroflot (CCCP-65795),Tupolev Tu-134A,"Bohnsdorf, Germany",APR,12-Dec-86,,
+73,9,63,1,COM,Western Airlines Flight 2605,McDonnell Douglas DC-10-10,"Mexico City, Mexico",LDG,31-Oct-79,,
+72,2,61,9,COM,Southern Airways Flight 242,McDonnell Douglas DC-9-31,"New Hope, Georgia, US",ENR,4-Apr-77,,
+72,5,67,0,COM,Aeroflot (CCCP-42471),Tupolev Tu-104B,"Dmitrovsky, Russia",ENR,28-Nov-76,,
+72,6,66,0,COM,Faucett (OB-R-148),Douglas C-54A-5-DC Skymaster,"Cordillera Blanca, Peru",ENR,8-Dec-67,,
+72,3,69,0,COM,British Midland Airways Flight (G-ALHG),Canadair C-4 Argonaut,"Stockport, England, UK",APR,4-Jun-67,,
+72,8,64,0,COM,?SA Flight 511,Ilyushin Il-18V,"Bouskoura, Morocco",ENR,12-Jul-61,,
+71,11,60,0,COM,Bashkirian Airlines Flight 2937ˇandˇDHL Flight 611,Tupolev Tu-154MˇandˇBoeing 757-23APF,"öberlingen, Germany",ENR,1-Jul-02,,
+71,3,68,0,COM,Cameroon Airlines Flight 3701,Boeing 737-200,"Douala, Cameroon",APR,3-Dec-95,,
+71,9,43,19,COM,EgyptAir Flight 864,Boeing 707-366C,"Bangkok, Thailand",APR,25-Dec-76,,
+70,8,62,0,COM,Aerosvit Flight 241,Yakovlev Yak-42,"Pierian Mts, Greece",ENR,17-Dec-97,,
+70,9,61,0,COM,Aeroper£ Flight 603,Boeing 757-23A,"Pacific Ocean, area ofˇLima, Peru",ENR,2-Oct-96,,
+70,7,63,0,COM,Mandala Airlines Flight 660,Vickers Viscount 816,"Mt. Lalaboy,ˇAmbon Island, Indonesia",APR,24-Jul-92,,
+70,4,66,0,COM,Aeroflot (CCCP-65766),Tupolev Tu-134A,"Kurumoch,ˇSamara, Russia",LDG,20-Oct-86,,
+70,6,64,0,COM,Galaxy Airlines Flight 203,Lockheed L-188 Electra,"Reno, Nevada, US",ICL,21-Jan-85,,
+70,2,68,0,COM,Eastern Air Lines Flight 212,McDonnell Douglas DC-9-31,"Charlotte, North Carolina, US",APR,11-Sep-74,,
+70,5,65,0,COM,TWA Flight 128,Convair CV-880-22-1,"Hebron, Kentucky, US",APR,20-Nov-67,,
+69,6,63,0,COM,Indian Airlines Flight 257,Boeing 737-2A8,"Imphal, India",APR,16-Aug-91,,
+69,9,59,1,COM,Aeroflot Flight 331,Ilyushin Il-62M,"Boyeros, Cuba",APR,27-May-77,,
+69,7,62,0,COM,Merpati Nusantara Airlines Viscount (PK-MVS),Vickers Viscount 828,"Mentawai Strait, offˇPadang, Indonesia",ENR,10-Nov-71,,
+69,9,60,0,COM,Fuerza AÇrea Argentina (TC-48),Douglas C-54 Skymaster,Central America[nb 18],ENR,3-Nov-65,,
+68,7,61,0,COM,Aero Caribbean Flight 883,ATR 72-212,"Guasimal, Cuba",ENR,4-Nov-10,,
+68,4,64,0,COM,American Eagle Flight 4184,ATR 72-212,"nearˇRoselawn, Indiana, US",APR,31-Oct-94,,
+68,2,66,0,COM,Asiana Airlines Flight 733,Boeing 737-5L9,"Mokpo, South Korea",APR,26-Jul-93,,
+68,8,60,0,COM,Fuerza AÇrea Venezolana (7772),Lockheed C-130H Hercules,"Lajes, Azores, Portugal",APR,3-Sep-76,,
+68,7,61,0,COM,Iberia Flight 504ˇandˇSpantax Flight 400,McDonnell Douglas DC-9-32andˇConvair CV-990-30A-5,"La Planche, France",ENR,5-Mar-73,,
+68,4,64,0,COM,Toa Domestic Airlines Flight 533,NAMC YS-11A-217,"Yokotsu Mtn.,ˇHakodate, Japan",ENR,3-Jul-71,,
+68,9,59,0,COM,TWA Flight 891,Lockheed L-1649 Starliner,"Busto Arsizio, Italy",ENR,26-Jun-59,,
+67,4,63,0,COM,Transporte AÇreo Militar (TAM-44),Convair CV-440-12,"Cordillera Mts., La Paz Region, Bolivia",ENR,27-Oct-75,,
+67,8,59,0,COM,Aeroflot Flight 25,Ilyushin Il-18,"Urakhcha,ˇRybno-Slobodsky, Tatarstan, Russia",ENR,4-Apr-63,,
+67,7,60,0,COM,Aerol°neas Argentinas Flight 644,Douglas DC-6,"Cachari,ˇBuenos Aires, Argentina",ENR,19-Jul-61,,
+66,7,59,0,COM,Iran Aseman Airlines Flight 746,Fokker F-28 Fellowship 1000,"Natanz, Iran",ENR,12-Oct-94,,
+66,4,62,0,COM,Turkish Airlines Flight 301,Fokker F28-1000 Fellowship,"Cumaovas?, Turkey",TOF,26-Jan-74,,
+66,4,62,0,COM,Aeroflot Flight 141,Tupolev Tu-154,"Prague, Czech Republic",APR,19-Feb-73,,
+66,3,63,0,COM,United Airlines Flight 409,Douglas DC-4,"Medicine Bow Peak, Wyoming, US",ENR,6-Oct-55,,
+66,9,57,0,COM,United States Navy (131612),Douglas R6D-1 (DC-6),"Pali Kea Peak,ˇWaianae Range, Oahu, Hawaii, US",APR,22-Mar-55,,
+65,?,?,0,COM,Iran Aseman Airlines/Itek Air Flight 6895,Boeing 737-219,"Bishkek, Kyrgyzstan",APR,24-Aug-08,,
+65,3,60,2,COM,LAPA Flight 3142,Boeing 737-204C,"Palermo, Argentina",TOF,31-Aug-99,,
+65,6,59,0,COM,Vietnam Airlines Flight 815,Tupolev Tu-134,"Phnom Penh, Cambodia",APR,3-Sep-97,,
+65,7,58,0,COM,Aviateca Flight 901,Boeing 737-200,"San Vicente Vol., El Salvador",APR,9-Aug-95,,
+65,8,57,0,COM,Aeroflot Flight 1969,Antonov An-10,"Lutuhyne, Ukraine",APR,31-Mar-71,,
+65,2,63,0,COM,American Airlines Flight 320,Lockheed L-188 Electra,"East River, New York, US",APR,3-Feb-59,,
+64,9,55,0,COM,Aeroflot Flight 7957,Antonov An-24ˇandˇYakovlev Yak-40,"Black Sea, nearˇAnapa, Russia",ENR,9-Sep-76,,
+64,10,54,0,COM,Canadian Pacific Airlines Flight 402,Douglas DC-8-43,"Tokyo, Japan",APR,4-Mar-66,,
+64,3,61,0,COM,Aeroflot Flight 101,Ilyushin Il-18B,"Almaty, Kazakhstan",APR,4-Jan-65,,
+64,11,53,0,COM,Aeroflot (CCCP-L5442),Tupolev Tu-104A,"nearˇChita, Russia",ENR,15-Aug-58,,
+63,5,58,0,COM,Elleniki Polemik° Aeropor°a (748),Lockheed C-130H Hercules,"Mt. Othrys, Greece",ENR,5-Feb-91,,
+63,5,58,0,COM,Aeroflot (CCCP-45038),Tupolev Tu-124V,"nearˇKirsanov, Russia",ENR,29-Aug-79,,
+63,8,55,0,COM,Aeroflot Flight 6551,Ilyushin Il-18,"Maksut,ˇZharma, Kazakhstan",ENR,11-May-73,,
+63,8,55,0,COM,British European Airways Flight 706,Vickers 951 Vanguard,"Aarsele, Belgium",ENR,2-Oct-71,,
+63,11,52,0,COM,Air France Flight 212 (F-BLCJ),Boeing 707-328C,"La Grande Soufriäre Vol., Guadeloupe",APR,5-Mar-68,,
+63,8,55,0,COM,United Arab Airlines Flight 869,de Havilland Comet 4C,"Arabian Sea, offˇMumbai, India",APR,27-Jul-63,,
+63,8,55,0,COM,Air France Flight 343,Lockheed L-1049G,"Yoff, Senegal",APR,29-Aug-60,,
+63,6,57,0,COM,Northwest Orient Airlines Flight 710,Lockheed L-188C Electra,"Cannelton, Indiana, US",ENR,17-Mar-60,,
+62,5,56,1,COM,Aeroflot Flight 2003,Tupolev Tu-124V,"Kokoshkino,ˇMoskovskaja, Russia",ICL,3-Jan-76,,
+62,11,51,0,COM,Air France Flight 212 (F-BHSZ),Boeing 707-328B,"Caribbean Sea, offˇMaiquetia, Venezuela",ENR,4-Dec-69,,
+62,3,59,0,COM,Eastern Air Lines Flight 375,Lockheed L-188 Electra,"Boston, Massachusetts, US",ICL,4-Oct-60,,
+62,3,59,0,COM,Trans-Canada Air Lines Flight 810,Canadair North Star,"Mt. Slesse, B.C., Canada",ENR,9-Dec-56,,
+61,11,50,0,COM,China Southwest Airlines Flight 4509,Tupolev Tu-154M,"Wenzhou, Zhejiang, China",APR,24-Feb-99,,
+61,4,57,0,COM,Garuda Indonesia (PK-GVE),Fokker F28-1000 Fellowship,"Mt. Sibayak, Indonesia",ENR,11-Jul-79,,
+61,9,52,0,COM,Japan Airlines Flight 446,McDonnell Douglas DC-8-62,"Moscow, Russia",ICL,28-Nov-72,,
+61,5,56,0,COM,Royal Air Maroc (CN-CCV),Sud Aviation SE-210 Caravelle III,"Berrechid, Morocco",APR,1-Apr-70,,
+61,4,57,0,COM,Aer Lingus Flight 712,Vickers Viscount 803,"St George's Channel, offˇWexford, Ireland",ENR,24-Mar-68,,
+61,14,47,0,COM,Viasa Flight 897,Douglas DC-8-53,"Atlantic Ocean, off Fonte da Telha,ˇLisboa, Portugal",ENR,30-May-61,,
+61,11,50,0,COM,US Navy (131582) and,Douglas R6D-1 (DC-6A)ˇandDouglas DC-3,"Guanabara Bay, Brazil",APR,25-Feb-60,,
+61,9,52,0,COM,Sabena (OO-SFA),Douglas DC-7C,"Casablanca, Morocco",APR,18-May-58,,
+61,6,55,0,COM,Aerolineas Argentinas Flight 670,Douglas DC-4,"nearˇBol°var, Argentina",ENR,8-Dec-57,,
+60,6,54,0,COM,Equatorial Express Airlines (3C-VQR),Antonov An-24B,"Baney, Equatorial Guinea",ENR,16-Jul-05,,
+60,6,49,5,COM,Alliance Air Flight 7412,Boeing 737-2A8,"Patna, Bihar, India",APR,17-Jul-00,,
+60,10,50,0,COM,TAROM Flight 371,Airbus A310-324,"Balote?ti, Romania",ENR,31-Mar-95,,
+60,10,50,0,COM,MalÇv Flight 240,Tupolev Tu-154B,"Mediterranean Sea, offˇBeirut, Lebanon",APR,30-Sep-75,,
+60,5,55,0,COM,Air Inter Flight 696,Vickers Viscount 724,"NoirÇtable, France",ENR,27-Oct-72,,
+59,6,53,0,COM,Fuerza AÇrea del Peru (FAP-329),de Havilland Canada DHC-5,"Tarma, Peru",ENR,21-Jun-89,,
+59,0,59,0,COM,Libyan Arab Airlines (LZ-BTN),Tupolev Tu-154,"Ar Rajma, Libya",ENR/LDG,2-Dec-77,,
+59,4,55,0,COM,SAETA Flight 232,Vickers Viscount 785D,"Chimborazo Vol., Andes Mts., Ecuador",ENR,15-Aug-76,,
+59,4,55,0,COM,Lufthansa Flight 540,Boeing 747-130,"Nairobi, Kenya",TOF,20-Nov-74,,
+59,?,?,0,COM,US Marine Corps (149802),Lockheed KC-130F Hercules,"Kowloon Bay, Hong Kong, China",TOF,24-Aug-65,,
+59,9,50,0,COM,Aeroflot Flight 245,Ilyushin Il-18B,"Chebotovka,ˇTarasovsky, Russia",ENR,17-Dec-61,,
+59,4,55,0,COM,Lloyd AÇreo Boliviano (CP-609),Douglas DC-4,"Arbieto, Bolivia",ENR,5-Feb-60,,
+59,9,50,0,COM,US Navy (131588),Douglas R6D-1,"Porcupine Seabight, Atlantic Ocean",ENR,10-Oct-56,,
+58,3,55,0,COM,Aeroflot Flight 7841,Tupolev Tu-134AK,"Minsk, Belarus",ICL,1-Feb-85,,
+58,1,57,0,COM,Aeroflot Flight 1691,Tupolev Tu-104B,"Moscow, Russia",ENR,17-Mar-79,,
+58,2,55,1,COM,Pan African Airlines (N90427),Douglas C-54B-1-DC Skymaster,"Agwa,ˇRivers State, Nigeria",APR,28-Sep-68,,
+58,5,53,0,COM,American Airlines Flight 383,Boeing 727-23,"Hebron, Kentucky, US",APR,8-Nov-65,,
+58,7,51,0,COM,Eastern Air Lines Flight 304,Douglas DC-8,"Lake Pontchartrain, Louisiana, US",ENR,25-Feb-64,,
+58,9,49,0,COM,KLM Flight 844,Lockheed 1049E,"Biak Island, Indonesia",ENR,16-Jul-57,,
+58,8,50,0,COM,Transocean Air Lines Flight 512,Douglas DC-6,Pacific Ocean,ENR,12-Jul-53,,
+58,7,51,0,COM,Curtiss Reid Flying Services (CF-EDN),Douglas C-54B-1-DC,"Tàte de l'Obiou Mtn., France",ENR,13-Nov-50,,
+58,3,55,0,COM,Northwest Orient Airlines Flight 2501,Douglas DC-4,"Lake Michigan, offˇBenton Harbor, Michigan, US",ENR,23-Jun-50,,
+57,7,50,0,COM,Atlasjet Flight 4203,McDonnell Douglas MD-83,"Keáiborlu, Turkey",APR,30-Nov-07,,
+57,5,52,0,COM,ASA Pesada (D2-FCG),Antonov An-26,"Luanda, Angola",ENR,15-Nov-00,,
+57,5,52,0,COM,Turkish Airlines Flight 278,Boeing 737-4Y0,"Van, Turkey",APR,29-Dec-94,,
+57,5,52,0,COM,SAETA (HC-AVP),Vickers Viscount 785D,"Pastaza, Ecuador",ENR,23-Apr-79,,
+57,4,53,0,COM,Aeroflot Flight 2174,Antonov An-24B,"Atamanovka,ˇSaratov, Russia",APR,1-Dec-71,,
+57,5,52,0,COM,Civil Air Transport (B-908),Curtiss C-46D-10-CU,"Jiaoxi, Taiwan, China",ICL,20-Jun-64,,
+56,2,53,0,COM,Indian Airlines Flight 491,Boeing 737-2A8,"Aurangabad, India",TOF,26-Apr-93,,
+56,2,54,0,COM,Martinair Flight 495,McDonnell Douglas DC-10-30CF,"Faro, Portugal",LDG,21-Dec-92,,
+56,?,?,0,COM,Aeroflot (CCCP-46435),Antonov An-24B,"Neftyanyye Kamni, Azerbaijan",ENR,18-Aug-73,,
+56,1,50,5,COM,Varig Flight 837,Douglas DC-8-33,"Monrovia, Liberia",APR,5-Mar-67,,
+56,4,52,0,COM,Avianca Flight 4,Douglas C-54,"Cartagena Bay, offˇCartagena, Colombia",ICL,15-Jan-66,,
+56,4,52,0,COM,Miami Airlines (N1678M),Curtiss C-46F-1-CU,"Hillside, New Jersey, US",ENR,16-Dec-51,,
+55,6,47,2,COM,China Eastern Airlines Flight 5210,Bombardier CRJ-200LR,"Baotou, Inner Mongolia, China",ICL,21-Nov-04,,
+55,1,54,0,COM,China Northwest Airlines Flight 2119,British Aerospace 146,"Yinchuan, China",TOF,23-Jul-93,,
+55,5,50,0,COM,Partnair Flight 394,Convair CV-580,"Skagerrak, nearˇHirtshals, Denmark",ENR,8-Sep-89,,
+55,2,53,0,COM,British Airtours Flight 328M,Boeing 737?236,"Manchester, England, UK",TOF,22-Aug-85,,
+55,8,47,0,COM,Transbrasil Flight 303,Boeing 727-27C,"Morro da Virg°nia,ˇSanta Catarina, Brazil",APR,12-Apr-80,,
+55,4,51,0,COM,Aeroflot Flight H-826,Antonov An-24B,"Preobrazhenka,ˇDnipropetrovsk, Ukraine",ENR,3-Aug-69,,
+55,7,48,0,COM,Air Afrique (F-BIAO),Douglas DC-6B,"Mt. Cameroon, Cameroon",ENR,3-May-63,,
+55,7,48,0,COM,TWA Flight 903,Lockheed L-749A,"Wadi Natrun, Egypt",ENR,31-Aug-50,,
+55,4,51,0,COM,Eastern Air Lines Flight 537 and,Douglas DC-4ˇandˇLockheed P-38 Lightning,"Alexandria, Virginia, US",APR,1-Nov-49,,
+54,7,47,0,COM,China Airlines Flight 204,Boeing 737-209,"Chiashan Mts.,ˇHualien City, Taiwan, China",ENR,26-Oct-89,,
+54,5,49,0,COM,Pakistan International Airlines (AP-BBF),Fokker F-27 Friendship 200,"Bunji, Pakistan",ENR,25-Aug-89,,
+54,2,52,0,COM,Aeroflot (CCCP-65120),Tupolev Tu-134AK,"near Kopsa,ˇKomi, Russia",ENR,2-Jul-86,,
+54,4,50,0,COM,Alia Royal Jordanian Airlines Herald (JY-ACQ),Handley Page HPR-7 Herald 207,"Al-Dimas, Syria",ENR,10-Apr-65,,
+54,5,49,0,COM,REAL Transportes AÇreos (PP-YRB),Convair CV-340-62,"Guanabara Bay, Brazil",APR,24-Jun-60,,
+54,9,45,0,COM,TAI (F-BIAP),Douglas DC-7C,"MÇrignac, France",ICL,24-Sep-59,,
+53,10,43,0,COM,Air France Flight 422,Boeing 727-230,"Monserrate Mtn., Bogot†, Colombia",ENR,20-Apr-98,,
+53,6,47,0,COM,Federal Airlines (ST-FAG),Antonov An-24RV,"Khartoum North, Sudan",LDG,3-May-96,,
+53,5,48,0,COM,Lineas AÇreas del Estado (TC-72) (1995),Fokker F-27 Friendship 400M,"nearˇChampaqui, C¢rdoba, Argentina",ENR,8-Nov-95,,
+53,4,0,49,COM,Aeroservicios Ecuatorianos Flight 767-103,Douglas DC-8-55F,"Concepci¢n,ˇQuito Canton, Ecuador",TOF,18-Sep-84,,
+53,2,51,0,COM,Nigeria Airways (5N-ANF),Fokker F-28 Fellowship 2000,"Enugu, Nigeria",APR,28-Nov-83,,
+53,5,48,0,COM,LOT Polish Airlines Flight 165,Antonov An-24W,"Polica Mtn., Poland",ENR,2-Apr-69,,
+53,1,52,0,COM,Strato-Freight (NC92857),Curtiss C-46D-5-CU,"Atlantic Ocean offˇSan Juan, Puerto Rico, US",ICL,7-Jun-49,,
+53,4,49,0,COM,Eastern Air Lines Flight 605,Douglas DC-4,"Bainbridge, Maryland, US",ENR,30-May-47,,
+53,4,49,0,COM,Avianca (C-114),Douglas DC-4,"Mt. Tablazo,ˇTulu†, Colombia",ENR,15-Feb-47,,
+52,2,50,0,COM,Azerbaijan Airlines Flight A-56,Tupolev Tu-134B,"Nakhchivan, Azerbaijan",ICL,5-Dec-95,,
+52,6,46,0,COM,Aeroflot Flight 1802,Antonov An-24RV,"Chernihiv, Ukraine",ENR,15-May-76,,
+52,5,47,0,COM,Lineas AÇreas del Estado (TC-72) (1975),Fokker F-27 Friendship 400M,"Pilcaniyeu, Argentina",APR,16-Mar-75,,
+52,4,48,0,COM,Aeroflot (CCCP-46809),Antonov An-24B,"Vinnytsia, Ukraine",APR,12-Nov-71,,
+52,12,40,0,COM,Aerol°neas Argentinas Flight 322,de Havilland Comet 4,"Campinas, Brazil",ICL,23-Nov-61,,
+52,8,44,0,COM,?SA Flight 511,Ilyushin Il-18,"GrÑfenberg, Germany",ENR,28-Mar-61,,
+52,3,49,0,COM,Transports AÇriens Intercontinentaux (F-BGOD),Douglas DC-6B,"nearˇNew Cairo, Egypt",APR,20-Feb-56,,
+52,0,52,0,COM,Pan Am Flight 526A,Douglas DC-4,"Atlantic Ocean, offˇSan Juan, Puerto Rico, US",ENR,11-Apr-52,,
+52,12,40,0,COM,Air France (F-BDRC),LatÇcoäre 631,Atlantic Ocean,ENR,1-Aug-48,,
+52,5,47,0,COM,United Airlines Flight 608,Douglas DC-6,"Bryce Canyon, Utah, US",ENR,24-Oct-47,,
+51,5,46,0,COM,Intercontinental de Aviaci¢n Flight 256,Douglas DC-9-14,"nearˇMar°a La Baja, Colombia",APR,10-Jan-95,,
+51,5,47,0,COM,Aeroflot (CCCP-87526),Yakovlev Yak-40,"Mt. Kukurtbash,ˇUntsukulsky, Dagestan, Russia",APR,7-Nov-91,,
+51,6,45,0,COM,Air Mali (TZ-ACT),Antonov An-24B,"Timbuktu, Mali",ICL,22-Feb-85,,
+51,6,45,0,COM,Soviet Navy (CCCP-42332),Tupolev Tu-104A,"Pushkinsky, Russia",ENR,7-Feb-81,,
+51,6,45,0,COM,Aeroflot (CCCP-45061),Tupolev Tu-124V,"Karacharovo,ˇVolokolamsky, Russia",ENR,16-Dec-73,,
+51,9,42,0,COM,Pan Am Flight 217,Boeing 707-321B,"Atlantic Ocean, offˇMaiquetia, Venezuela",APR,12-Dec-68,,
+51,5,46,0,COM,Austral Lineas AÇreas Flight 205,Curtiss C-46A-50-CU,"Atlantic Ocean offˇMar del Plata, Argentina",APR,16-Jan-59,,
+51,7,44,0,COM,Panair do Brasil Flight 099,Lockheed Constellation,"S?o Leopoldo, Brazil",ENR,28-Jul-50,,
+50,5,44,1,COM,Colgan Air Flight 3407[nb 21],Bombardier DHC8-402 Q400,"Clarence Center, New York, US",APR,12-Feb-09,,
+50,6,44,0,COM,Stavropolskaya Aktsionernaya Avia Flight 1023,Antonov An-24RV,"Cherkessk, Russia",ENR,18-Mar-97,,
+50,4,46,0,COM,Philippine Airlines Flight 206,Hawker Siddeley HS 748-209 Srs.2,"Mt. Ugu,ˇBenguet, Philippines",APR,26-Jun-87,,
+50,12,38,0,COM,Varig Flight 797,Boeing 707-320C,"Bingerville, Cìte d'Ivoire",APR,3-Jan-87,,
+50,5,45,0,COM,Balkan Bulgarian Airlines (LZ-TUR),Tupolev Tu-134,"Sofia, Bulgaria",APR,10-Jan-84,,
+50,3,47,0,COM,Spantax Flight 995,McDonnell Douglas DC-10-30,"M†laga, Spain",TOF,13-Sep-82,,
+50,6,44,0,COM,Aeropesca Colombia Flight 221,Vickers Viscount 745D,"Garz¢n, Colombia",ENR,26-Aug-81,,
+50,6,44,0,COM,Somali Airlines Flight 40,Fokker F27-600 Friendship,"Bal'ad District, Somalia",ENR,20-Jul-81,,
+50,4,46,0,COM,Olympic Airways Flight 830,NAMC YS-11A-500,"Servia, Greece",APR,23-Nov-76,,
+50,6,44,0,COM,Hughes Airwest Flight 706 and,McDonnell Douglas DC-9-31andˇMcDonnell Douglas F-4 Phantom II,"San Gabriel Mts., nearˇDuarte, California, US",ENR,6-Jun-71,,
+50,5,43,2,COM,Ariana Afghan Airlines Flight 701,Boeing 727-113C,"Fernhill, England, UK",APR,5-Jan-69,,
+50,5,45,0,COM,All Nippon Airways Flight 533,NAMC YS-11,"Seto Inland Sea, offˇMatsuyama, Shikoku, Japan",APR,13-Nov-66,,
+50,5,45,0,COM,Iberia (EC-ATH),Convair CV-440-62,"Atlantic Ocean, offˇTangier, Morocco",APR,31-Mar-65,,
+50,5,45,0,COM,TWA Flight 800,Boeing 707-331,"Fiumicino, Italy",TOF,23-Nov-64,,
+50,7,43,0,COM,Panair do Brasil (PP-PDE),Lockheed L-049 Constellation,"area ofˇManaus, Brazil",ENR,14-Dec-62,,
+50,4,46,0,COM,Capital Airlines Flight 20,Vickers Viscount 745D,"Holdcroft, Virginia, US",ENR,18-Jan-60,,
+50,5,45,0,COM,Scottish Airlines (G-ANSY),Avro York,"?urrieq, Malta",ENR,18-Feb-56,,
+50,9,41,0,COM,Pan Am Flight 202,Boeing 377-10-26,"nearˇSantana do Araguaia, Brazil",ENR,29-Apr-52,,
+50,6,44,0,COM,United Airlines Flight 615,Douglas DC-6B,"Union City, California, US",APR,24-Aug-51,,
+50,5,45,0,COM,United Airlines Flight 610,Douglas DC-6,"nearˇFort Collins, Colorado, US",ENR,30-Jun-51,,
+50,3,47,0,COM,Pennsylvania Central Airlines Flight 410,Douglas C-54-DO,"Shannondale, West Virginia, US",ENR,13-Jun-47,,

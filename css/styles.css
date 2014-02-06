@@ -1,0 +1,29 @@
+
+
+.land {
+  fill: #222;
+}
+
+.boundary {
+  fill: none;
+  stroke: #fff;
+  stroke-width: .5px;
+}
+
+circle {
+	stroke: #d5cbbf;
+}
+
+.circles text {
+	fill: white;
+	font: 10px sans-serif;
+	text-anchor: middle;
+}
+
+rect {
+	stroke: black;
+}
+
+body {
+	background-color: #e8ddcb;
+}
