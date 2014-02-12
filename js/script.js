@@ -1,8 +1,8 @@
 
 
 // Global height and width
-var width = 1500,
-height = 1000;
+var width = 1200,
+height = 800;
 
 var projection = d3.geo.miller()
 .scale(150)
@@ -20,7 +20,7 @@ var mapGroup = svg.append('g').attr("class", "mapGroup");
 
 
 // Draws the world map, modified from https://gist.github.com/mbostock/4180634
-d3.json("/js/world-50m.json", function(error, world) {
+d3.json("js/world-50m.json", function(error, world) {
 	mapGroup.insert("path")
 	.datum(topojson.feature(world, world.objects.land))
 	.attr("class", "land")
@@ -40,7 +40,7 @@ d3.json("/js/world-50m.json", function(error, world) {
 
 // parses a csv file containing all accidents, sorts the data and marks them on the map
 function drawAccidents() {
-	d3.text("/js/accidents-small.csv", function(rawData) {
+	d3.text("js/accidents-small.csv", function(rawData) {
 		var parsedData = d3.csv.parse(rawData);
 		parsedData.forEach(function(d, i) {
 			parsedData[i].projectedCoords = projection([d.Longitude, d.Latitude])
